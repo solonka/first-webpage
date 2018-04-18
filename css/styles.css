@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+  text-align: center;
+   }
+h2{
+  color: purple;
+  text-align: left;
+}
+p{
+  font-stretch: semi-condensed;
+}
+ul{
+  line-height: 40px;
+}
+body{
+  background-color: grey;
+  line-height 2;
+  color blue;
+  font-style: italic;
+  font-family: monospace;
+}
